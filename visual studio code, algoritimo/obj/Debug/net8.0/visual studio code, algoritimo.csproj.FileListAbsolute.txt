@@ -1,0 +1,14 @@
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.AssemblyInfoInputs.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.AssemblyInfo.cs
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.csproj.CoreCompileInputs.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\bin\Debug\net8.0\visual studio code, algoritimo.exe
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\bin\Debug\net8.0\visual studio code, algoritimo.deps.json
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\bin\Debug\net8.0\visual studio code, algoritimo.runtimeconfig.json
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\bin\Debug\net8.0\visual studio code, algoritimo.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\bin\Debug\net8.0\visual studio code, algoritimo.pdb
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\refint\visual studio code, algoritimo.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.pdb
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\visual studio code, algoritimo.genruntimeconfig.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\visual studio code, algoritimo\obj\Debug\net8.0\ref\visual studio code, algoritimo.dll

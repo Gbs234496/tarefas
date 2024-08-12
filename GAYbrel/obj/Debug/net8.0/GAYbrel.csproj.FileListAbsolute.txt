@@ -1,0 +1,14 @@
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\bin\Debug\net8.0\GAYbrel.exe
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\bin\Debug\net8.0\GAYbrel.deps.json
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\bin\Debug\net8.0\GAYbrel.runtimeconfig.json
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\bin\Debug\net8.0\GAYbrel.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\bin\Debug\net8.0\GAYbrel.pdb
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.AssemblyInfoInputs.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.AssemblyInfo.cs
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.csproj.CoreCompileInputs.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\refint\GAYbrel.dll
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.pdb
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\GAYbrel.genruntimeconfig.cache
+D:\Users\20241170150046\OneDrive - IFRN\Área de Trabalho\GAYbrel\obj\Debug\net8.0\ref\GAYbrel.dll
